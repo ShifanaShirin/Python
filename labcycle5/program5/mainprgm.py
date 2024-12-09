@@ -1,4 +1,3 @@
-import graphics
 from graphics.rectangle import area as rect_area
 from graphics.rectangle import perimeter as rect_perimeter
 from graphics.circle import area as circle_area
